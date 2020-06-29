@@ -1,2 +1,0 @@
-# Course
-Course test repository
